@@ -1,0 +1,349 @@
+Message file test.txt size = 12
+========================================
+Processing ./img/DSC00542.ARW
+Generating/loading ECC permutation...
+ECC permutation done in 1.6896448787301779 seconds
+Searching for optimal parameters...
+Optimal parameters: beta = 16, ell = 1, rate = 12146415, err = 0
+Optimal parameters found in 32.52003041282296 seconds
+CCA metadata pixel compression ratio: 87040/42535 = 2.046314799576819
+CCA metadata s compression ratio: 174080/52851 = 3.293788197006679
+CCA metadata combined compression ratio: 261120/97986 = 2.6648704917028962
+Use combined compression = False
+CCA metadata size = 95386
+Supported message size = 12048429
+Computing ECC bit locations
+ECC bit locations computed in 0.8579453192651272 seconds
+ECC encoding...
+ECC encoding done in 0.5235242331400514 seconds
+AES encrypting...
+AES encryption done in 0.7220971072092652 seconds
+Preparing data for G-embedding...
+G-embedding data prepared in 1.4628726430237293 seconds
+G-embedding...
+G-embedding done in 36.251814207062125 seconds
+Embedding metadata...
+Metadata embedded in 0.018366897478699684 seconds
+Embedding Kyber...
+Kyber embedded in 0.7601112825796008 seconds
+Stego embedding done in 75.19005798734725 seconds
+Stego saved
+========================================
+Processing ./img/DSC00528.ARW
+Generating/loading ECC permutation...
+ECC permutation done in 2.1058819284662604 seconds
+Searching for optimal parameters...
+Optimal parameters: beta = 16, ell = 1, rate = 12146415, err = 0
+Optimal parameters found in 24.230137748643756 seconds
+CCA metadata pixel compression ratio: 87040/45143 = 1.9280951642558093
+CCA metadata s compression ratio: 174080/52066 = 3.3434486997272694
+CCA metadata combined compression ratio: 261120/99517 = 2.623873308078017
+Use combined compression = False
+CCA metadata size = 97209
+Supported message size = 12046898
+Computing ECC bit locations
+ECC bit locations computed in 0.6395409125834703 seconds
+ECC encoding...
+ECC encoding done in 0.5636411560699344 seconds
+AES encrypting...
+AES encryption done in 0.7398798000067472 seconds
+Preparing data for G-embedding...
+G-embedding data prepared in 1.1561655160039663 seconds
+G-embedding...
+G-embedding done in 35.02971543278545 seconds
+Embedding metadata...
+Metadata embedded in 0.010976704768836498 seconds
+Embedding Kyber...
+Kyber embedded in 0.7603422487154603 seconds
+Stego embedding done in 65.61794009525329 seconds
+Stego saved
+========================================
+Processing ./img/DSC00611.ARW
+Generating/loading ECC permutation...
+ECC permutation done in 2.147183356806636 seconds
+Searching for optimal parameters...
+Optimal parameters: beta = 16, ell = 1, rate = 12146415, err = 0
+Optimal parameters found in 23.963058948516846 seconds
+CCA metadata pixel compression ratio: 87040/45010 = 1.9337924905576538
+CCA metadata s compression ratio: 174080/50223 = 3.4661410110905364
+CCA metadata combined compression ratio: 261120/97465 = 2.6791155799517776
+Use combined compression = False
+CCA metadata size = 95233
+Supported message size = 12048950
+Computing ECC bit locations
+ECC bit locations computed in 0.6578193288296461 seconds
+ECC encoding...
+ECC encoding done in 0.5533767072483897 seconds
+AES encrypting...
+AES encryption done in 0.7219028202816844 seconds
+Preparing data for G-embedding...
+G-embedding data prepared in 1.2391112139448524 seconds
+G-embedding...
+G-embedding done in 34.929949421435595 seconds
+Embedding metadata...
+Metadata embedded in 0.01230341475456953 seconds
+Embedding Kyber...
+Kyber embedded in 0.7579841269180179 seconds
+Stego embedding done in 65.39446268230677 seconds
+Stego saved
+========================================
+Processing ./img/DSC00527.ARW
+Generating/loading ECC permutation...
+ECC permutation done in 2.2360463570803404 seconds
+Searching for optimal parameters...
+Optimal parameters: beta = 16, ell = 1, rate = 12146415, err = 0
+Optimal parameters found in 24.02600377984345 seconds
+CCA metadata pixel compression ratio: 87040/35444 = 2.4557047737275703
+CCA metadata s compression ratio: 174080/38860 = 4.479670612454966
+CCA metadata combined compression ratio: 261120/75443 = 3.4611561046087775
+Use combined compression = False
+CCA metadata size = 74304
+Supported message size = 12070972
+Computing ECC bit locations
+ECC bit locations computed in 0.6571284346282482 seconds
+ECC encoding...
+ECC encoding done in 0.6010982636362314 seconds
+AES encrypting...
+AES encryption done in 0.8184902388602495 seconds
+Preparing data for G-embedding...
+G-embedding data prepared in 1.172100743278861 seconds
+G-embedding...
+G-embedding done in 35.03449388500303 seconds
+Embedding metadata...
+Metadata embedded in 0.011851159855723381 seconds
+Embedding Kyber...
+Kyber embedded in 0.7615761272609234 seconds
+Stego embedding done in 65.6989270504564 seconds
+Stego saved
+========================================
+Processing ./img/DSC00601.ARW
+Generating/loading ECC permutation...
+ECC permutation done in 2.1054303543642163 seconds
+Searching for optimal parameters...
+Optimal parameters: beta = 16, ell = 1, rate = 12146415, err = 0
+Optimal parameters found in 24.20213621109724 seconds
+CCA metadata pixel compression ratio: 87040/42430 = 2.0513787414565168
+CCA metadata s compression ratio: 174080/48110 = 3.618374558303887
+CCA metadata combined compression ratio: 261120/92835 = 2.81273226692519
+Use combined compression = False
+CCA metadata size = 90540
+Supported message size = 12053580
+Computing ECC bit locations
+ECC bit locations computed in 0.6550706345587969 seconds
+ECC encoding...
+ECC encoding done in 0.53719646576792 seconds
+AES encrypting...
+AES encryption done in 0.7351372130215168 seconds
+Preparing data for G-embedding...
+G-embedding data prepared in 1.237229579128325 seconds
+G-embedding...
+G-embedding done in 34.85707371495664 seconds
+Embedding metadata...
+Metadata embedded in 0.012247166596353054 seconds
+Embedding Kyber...
+Kyber embedded in 0.7620879365131259 seconds
+Stego embedding done in 65.4998557176441 seconds
+Stego saved
+========================================
+Processing ./img/DSC00523.ARW
+Generating/loading ECC permutation...
+ECC permutation done in 2.203219515271485 seconds
+Searching for optimal parameters...
+Optimal parameters: beta = 16, ell = 1, rate = 12146415, err = 0
+Optimal parameters found in 24.201725041493773 seconds
+CCA metadata pixel compression ratio: 87040/41863 = 2.079162984019301
+CCA metadata s compression ratio: 174080/46481 = 3.745186205116069
+CCA metadata combined compression ratio: 261120/90202 = 2.8948360346777235
+Use combined compression = False
+CCA metadata size = 88344
+Supported message size = 12056213
+Computing ECC bit locations
+ECC bit locations computed in 0.6568493843078613 seconds
+ECC encoding...
+ECC encoding done in 0.6170583926141262 seconds
+AES encrypting...
+AES encryption done in 0.8312007347121835 seconds
+Preparing data for G-embedding...
+G-embedding data prepared in 1.1712583778426051 seconds
+G-embedding...
+G-embedding done in 35.04240624420345 seconds
+Embedding metadata...
+Metadata embedded in 0.011236440390348434 seconds
+Embedding Kyber...
+Kyber embedded in 0.7586417188867927 seconds
+Stego embedding done in 65.9097158908844 seconds
+Stego saved
+========================================
+Processing ./img/DSC00572.ARW
+Generating/loading ECC permutation...
+ECC permutation done in 2.035344623029232 seconds
+Searching for optimal parameters...
+Optimal parameters: beta = 16, ell = 1, rate = 12146415, err = 0
+Optimal parameters found in 23.137857207097113 seconds
+CCA metadata pixel compression ratio: 87040/42164 = 2.0643202732188595
+CCA metadata s compression ratio: 174080/59265 = 2.937315447566017
+CCA metadata combined compression ratio: 261120/104534 = 2.4979432529129277
+Use combined compression = False
+CCA metadata size = 101429
+Supported message size = 12041881
+Computing ECC bit locations
+ECC bit locations computed in 0.6551750050857663 seconds
+ECC encoding...
+ECC encoding done in 0.5657857861369848 seconds
+AES encrypting...
+AES encryption done in 0.7541523640975356 seconds
+Preparing data for G-embedding...
+G-embedding data prepared in 1.1358267879113555 seconds
+G-embedding...
+G-embedding done in 35.00707904063165 seconds
+Embedding metadata...
+Metadata embedded in 0.017861057072877884 seconds
+Embedding Kyber...
+Kyber embedded in 0.7611067406833172 seconds
+Stego embedding done in 64.48354855831712 seconds
+Stego saved
+========================================
+Processing ./img/DSC00377.ARW
+Generating/loading ECC permutation...
+ECC permutation done in 2.2786857802420855 seconds
+Searching for optimal parameters...
+Optimal parameters: beta = 16, ell = 1, rate = 12146415, err = 0
+Optimal parameters found in 24.04333272203803 seconds
+CCA metadata pixel compression ratio: 87040/52098 = 1.6706975315751085
+CCA metadata s compression ratio: 174080/65460 = 2.6593339443935227
+CCA metadata combined compression ratio: 261120/121840 = 2.143138542350624
+Use combined compression = False
+CCA metadata size = 117558
+Supported message size = 12024575
+Computing ECC bit locations
+ECC bit locations computed in 0.6493534287437797 seconds
+ECC encoding...
+ECC encoding done in 0.5864533381536603 seconds
+AES encrypting...
+AES encryption done in 0.7950869603082538 seconds
+Preparing data for G-embedding...
+G-embedding data prepared in 1.1366066643968225 seconds
+G-embedding...
+G-embedding done in 35.014506531879306 seconds
+Embedding metadata...
+Metadata embedded in 0.011431894265115261 seconds
+Embedding Kyber...
+Kyber embedded in 0.759677249006927 seconds
+Stego embedding done in 65.69215305894613 seconds
+Stego saved
+========================================
+Processing ./img/DSC00508.ARW
+Generating/loading ECC permutation...
+ECC permutation done in 2.0384081844240427 seconds
+Searching for optimal parameters...
+Optimal parameters: beta = 16, ell = 1, rate = 12146415, err = 0
+Optimal parameters found in 23.85043835360557 seconds
+CCA metadata pixel compression ratio: 87040/45931 = 1.8950164377000283
+CCA metadata s compression ratio: 174080/61861 = 2.8140508559512454
+CCA metadata combined compression ratio: 261120/112844 = 2.3139909964198364
+Use combined compression = False
+CCA metadata size = 107792
+Supported message size = 12033571
+Computing ECC bit locations
+ECC bit locations computed in 0.6588105196133256 seconds
+ECC encoding...
+ECC encoding done in 0.5542494244873524 seconds
+AES encrypting...
+AES encryption done in 0.7229047892615199 seconds
+Preparing data for G-embedding...
+G-embedding data prepared in 1.2118595177307725 seconds
+G-embedding...
+G-embedding done in 34.98767674062401 seconds
+Embedding metadata...
+Metadata embedded in 0.013012830168008804 seconds
+Embedding Kyber...
+Kyber embedded in 0.7598658613860607 seconds
+Stego embedding done in 65.18657139223069 seconds
+Stego saved
+========================================
+Processing ./img/DSC00586.ARW
+Generating/loading ECC permutation...
+ECC permutation done in 2.2559839244931936 seconds
+Searching for optimal parameters...
+Optimal parameters: beta = 16, ell = 1, rate = 12146415, err = 0
+Optimal parameters found in 24.267491191625595 seconds
+CCA metadata pixel compression ratio: 87040/39423 = 2.2078482104355324
+CCA metadata s compression ratio: 174080/44644 = 3.8992921781202403
+CCA metadata combined compression ratio: 261120/86678 = 3.0125291308059716
+Use combined compression = False
+CCA metadata size = 84067
+Supported message size = 12059737
+Computing ECC bit locations
+ECC bit locations computed in 0.6519308276474476 seconds
+ECC encoding...
+ECC encoding done in 0.5939617697149515 seconds
+AES encrypting...
+AES encryption done in 0.7940459623932838 seconds
+Preparing data for G-embedding...
+G-embedding data prepared in 1.2269776342436671 seconds
+G-embedding...
+G-embedding done in 34.84853076003492 seconds
+Embedding metadata...
+Metadata embedded in 0.012311856262385845 seconds
+Embedding Kyber...
+Kyber embedded in 0.7564877094700933 seconds
+Stego embedding done in 65.79836818668991 seconds
+Stego saved
+========================================
+Processing ./img/DSC00506.ARW
+Generating/loading ECC permutation...
+ECC permutation done in 2.0898876199498773 seconds
+Searching for optimal parameters...
+Optimal parameters: beta = 16, ell = 1, rate = 12146415, err = 0
+Optimal parameters found in 24.310316825285554 seconds
+CCA metadata pixel compression ratio: 87040/43390 = 2.005992164093109
+CCA metadata s compression ratio: 174080/59602 = 2.9207073588134627
+CCA metadata combined compression ratio: 261120/106510 = 2.4516007886583417
+Use combined compression = False
+CCA metadata size = 102992
+Supported message size = 12039905
+Computing ECC bit locations
+ECC bit locations computed in 0.6522300755605102 seconds
+ECC encoding...
+ECC encoding done in 0.5692590549588203 seconds
+AES encrypting...
+AES encryption done in 0.7421527961269021 seconds
+Preparing data for G-embedding...
+G-embedding data prepared in 1.2348941434174776 seconds
+G-embedding...
+G-embedding done in 34.94893462304026 seconds
+Embedding metadata...
+Metadata embedded in 0.012371396645903587 seconds
+Embedding Kyber...
+Kyber embedded in 0.7723539872094989 seconds
+Stego embedding done in 65.7565936204046 seconds
+Stego saved
+========================================
+Processing ./img/DSC00503.ARW
+Generating/loading ECC permutation...
+ECC permutation done in 2.2541546570137143 seconds
+Searching for optimal parameters...
+Optimal parameters: beta = 16, ell = 1, rate = 12146415, err = 0
+Optimal parameters found in 24.02003255393356 seconds
+CCA metadata pixel compression ratio: 87040/52851 = 1.6468940985033396
+CCA metadata s compression ratio: 174080/63532 = 2.7400365170307874
+CCA metadata combined compression ratio: 261120/119296 = 2.188841201716738
+Use combined compression = False
+CCA metadata size = 116383
+Supported message size = 12027119
+Computing ECC bit locations
+ECC bit locations computed in 0.6461325036361814 seconds
+ECC encoding...
+ECC encoding done in 0.4933297587558627 seconds
+AES encrypting...
+AES encryption done in 0.9119303189218044 seconds
+Preparing data for G-embedding...
+G-embedding data prepared in 1.1748078428208828 seconds
+G-embedding...
+G-embedding done in 35.01825667358935 seconds
+Embedding metadata...
+Metadata embedded in 0.011119544506072998 seconds
+Embedding Kyber...
+Kyber embedded in 0.7594119794666767 seconds
+Stego embedding done in 65.67911971826106 seconds
+Stego saved
